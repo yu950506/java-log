@@ -1,4 +1,4 @@
-package cn.yhs.learn;
+package cn.yhs.learn.test;
 
 public class Test {
     public static void main(String[] args) {

@@ -10,7 +10,13 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>jul-log</module>
+        <module>log4j-log</module>
+        <module>jcl-log</module>
+        <module>slf4j-log</module>
+        <module>md-context</module>
     </modules>
+
+
     <properties>
         <!--统一控制版本号-->
         <junit.version>4.12</junit.version>
@@ -22,9 +28,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>${junit.version}</version>
-            <scope>test</scope>
         </dependency>
-
     </dependencies>
 
     <build>
