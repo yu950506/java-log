@@ -19,7 +19,7 @@
 
     <properties>
         <!--统一控制版本号-->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
